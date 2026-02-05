@@ -269,6 +269,12 @@ Notes:
 - spaCy documentation: https://spacy.io/
 
 ---
+## 📊 Sentiment Analysis Notebook
+
+You can explore and run the full sentiment analysis notebook interactively in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-zhV489PTeUkn4kixOB8jPeFZWEGO1T-#scrollTo=cGVVabraCHhO)
+
 
 ## License
 
